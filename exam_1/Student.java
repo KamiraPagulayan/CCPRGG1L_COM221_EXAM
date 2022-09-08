@@ -16,7 +16,7 @@ public class Student {
     }
 
     public void amIAwesome(){
-        System.out.println("My email address is " + iAmAwesome); 
+        System.out.println("Am I awesome? " + iAmAwesome); 
     }
 }
 
